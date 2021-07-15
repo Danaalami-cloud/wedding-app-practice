@@ -1,0 +1,26 @@
+{
+  "name": "wedding-app-practice",
+  "version": "1.0.0",
+  "description": "",
+  "main": "details.js",
+  "type": "module",
+  "dependencies": {
+    "react": "^17.0.2",
+    "axios": "^0.21.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "node details.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Danaalami-cloud/wedding-app-practice.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Danaalami-cloud/wedding-app-practice/issues"
+  },
+  "homepage": "https://github.com/Danaalami-cloud/wedding-app-practice#readme"
+}
